@@ -1,0 +1,13 @@
+# Ignore Python Virtual Environment
+venv/
+__pycache__/
+
+# Ignore Environment Variables & API Keys
+.env
+config.py
+
+# Ignore System Files
+.DS_Store
+*.log
+flow_diagram.png  # Ignore generated images
+
