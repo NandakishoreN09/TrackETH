@@ -90,10 +90,6 @@ Contributions are welcome! Feel free to fork this repository, create a new branc
 
 ---
 
-## **📚 License**
-MIT License. See [LICENSE](LICENSE) for details.
-
----
 
 ## **👨‍💻 Author**
 Developed by **Nandakishore N**. Feel free to connect!
